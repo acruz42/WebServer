@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>Program 2</title>
+        <link rel="icon" href="favicon.ico" type="image/x-icon"/>
+    </head>
+
+    <body>
+        <h1><b>Adrian's Java WebServer</b></h1>
+        <cs371server>
+        <cs371date>
+
+        <h1>
+        I hope this works :P<br>
+        </h1>
+
+        <p>
+        <h2>Kingdom Hearts III PNG: </h2>
+        <img src="KH3.png" alt="KH3">
+            </p>
+
+        <p>
+        <h2>What should've been Final Fantasy Versus XIII JPEG:</h2>
+        <img src="FFXV.jpeg" alt="FFXV">
+            </p>
+
+        <p>
+        <h2>Me figuring this out (gif)</h2>
+        <img src="tenor.gif" alt="why is this not working!? Update: it works now">
+            </p>
+
+        <p>
+        <h2>Me submitting this (gif)</h2>
+        <img src="Aragorn.gif" alt="Aragorn">
+            </p>
+
+        <p>
+        <h2>You watching this (gif)</h2>
+        <img src="LOTR.gif" alt="LOTR">
+            </p>
+
+    </body>
+
+</html>

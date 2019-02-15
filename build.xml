@@ -1,4 +1,4 @@
-<!-- Basic ant file to build the WebServer -->
+<!-- Basic ant file to compile the WebServer, now the command "ant run" is usable -->
 
 <project default = "compile">
 
@@ -6,7 +6,7 @@
         <javac srcdir = "." includeantruntime = "false"/>
     </target>
    
-    <target name = "build" depends = "compile" >
+    <target name = "run" depends = "compile" >
         <java classname = "WebServer" fork = "true"/>
     </target>
 
