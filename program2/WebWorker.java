@@ -61,7 +61,7 @@ import java.util.TimeZone;
 
             if ( urlAddress.contains( ".gif" ) )
                 contentType = "image/gif";
-            else if ( urlAddress.contains( ".jpeg" ) )
+            else if ( urlAddress.contains( ".jpg" ) )
                 contentType = "image/jpeg";
             else if ( urlAddress.contains(".png") )
                 contentType = "image/png";
